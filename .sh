@@ -1,1 +1,1 @@
-new commands on the file
+cat myFile.txt
